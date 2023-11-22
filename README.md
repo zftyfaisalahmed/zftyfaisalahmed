@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zftyfaisalahmed
+- 👋 Hi, I’m Faisal Ahmed
 - 👀 I’m interested in starting my career to any of IT company 
 - 🌱 I’m currently learning MERN full Stack
 - 💞️ I’m looking to collaborate on work together on a project
